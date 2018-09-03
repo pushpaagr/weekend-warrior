@@ -18,3 +18,7 @@ phenomenon, go watch [this youtube video](http://www.youtube.com/watch?v=xX96xng
 
 ## Source
 [JavaRanch Cattle Drive, exercise 3](http://www.javaranch.com/leap.jsp)
+
+leap year if divisble by 4
+
+not leap year if divisble by 100, unless it's also divisble by 400
